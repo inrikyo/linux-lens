@@ -14,7 +14,7 @@ The main use of this project is to do a simple image search without all the trou
 
 
 ## demo video
-[testvideo]([/run/media/kiyo/dumthings/the-forbidden-hole/linux-lens2.0/readme/Kooha-2026-06-30-01-50-00.mp4](https://github.com/inrikyo/linux-lens/blob/main/linux-lens2.0/readme/Kooha-2026-06-30-01-50-00.mp4))
+[demo viedo link (hosted on catbox)](https://files.catbox.moe/dv47pl.mp4)
 
 - ps( the qulity and speed is bad since i dont have a power lap to work on (my intel is crying right now))
 
