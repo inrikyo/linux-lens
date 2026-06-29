@@ -33,6 +33,8 @@ pipx install poetry
 ```bash
 chmod +x run.sh 
 ```
+   * ho add the cd of the location of the main file btw in the `run.sh` in the cd 
+
 if you using `KDE` you can set it up as a shortcut to run it faster 
 </details>
 <details>
